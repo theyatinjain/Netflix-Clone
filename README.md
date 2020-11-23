@@ -2,4 +2,4 @@
  Netflix Clone using react
 
 # URL
-Hosted with firebase : [Netflix Clone](netflixclone-y.web.app)
+Hosted with firebase : [Netflix Clone](https://netflixclone-y.web.app)
