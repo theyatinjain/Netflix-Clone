@@ -39,6 +39,9 @@
     .row {
         margin-left: 10px;
     }
+    .row > h2{
+        font-size: 22px;
+    }
     .row__poster {
         max-height: 120px;
         margin: 0 5px;

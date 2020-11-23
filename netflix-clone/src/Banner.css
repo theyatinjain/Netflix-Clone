@@ -44,15 +44,19 @@
 }
 
 .banner--fadeBottom {
-    height: 50%;
-    background-image: linear-gradient(180deg, transparent, rgba(37,37,37,0.6), #111111);
+    height: 49%;
+    background-image: linear-gradient(180deg, transparent, rgba(37,37,37,0.7), #111111);
 }
 
 @media screen and (max-width:600px) {
+    .banner__title {
+        font-size: 2.5rem;
+    }
     .banner__contents {
         padding: auto 0;
     }
     .banner__description {
         width: 90%;
+        font-size: 1rem;
     }
 }
